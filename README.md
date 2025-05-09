@@ -1,0 +1,1 @@
+Hotel Booking Website is a responsive web application that allows users to browse, filter, and book hotel rooms online with ease. Built using React and Tailwind CSS, it offers a modern user interface and a seamless booking experience.
